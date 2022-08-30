@@ -35,8 +35,10 @@ Each week's projects are listed here under the respective header.
 ## Contact Information
 
 I can be reached via:
-* \[Email\]: 
+* Email:
+
 ![An email address. The contents have been removed to prevent text scraping.](contact_info/work_email.png)
 
-* \[SMS\]: 
+* SMS:
+
 ![A phone number. The contents have been removed to prevent text scraping.](contact_info/SMS_number.png)
