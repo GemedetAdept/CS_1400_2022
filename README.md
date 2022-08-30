@@ -6,9 +6,9 @@ Table of Contents
 ===
 
 <!--ts-->
-    * [Weekly Projects](#weekly-projects)
-        * [2022-08-29 — 2022-09-02](#2022-08-29-—-2022-09-02)
-    * [Contact Information](#contact-information)
+* [Weekly Projects](#weekly-projects)
+    * [2022-08-29 — 2022-09-02](#2022-08-29-—-2022-09-02)
+* [Contact Information](#contact-information)
 <!--te-->
 
 ## Weekly Projects
