@@ -1,0 +1,15 @@
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\bin\Debug\net6.0\cs_1050_2022.exe
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\bin\Debug\net6.0\cs_1050_2022.deps.json
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\bin\Debug\net6.0\cs_1050_2022.runtimeconfig.json
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\bin\Debug\net6.0\cs_1050_2022.dll
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\bin\Debug\net6.0\cs_1050_2022.pdb
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\cs_1050_2022.csproj.AssemblyReference.cache
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\cs_1050_2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\cs_1050_2022.AssemblyInfoInputs.cache
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\cs_1050_2022.AssemblyInfo.cs
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\cs_1050_2022.csproj.CoreCompileInputs.cache
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\cs_1050_2022.dll
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\refint\cs_1050_2022.dll
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\cs_1050_2022.pdb
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\cs_1050_2022.genruntimeconfig.cache
+C:\Users\vivia\c#\cs_1050_2022\helloWorld\obj\Debug\net6.0\ref\cs_1050_2022.dll
