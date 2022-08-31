@@ -1,0 +1,15 @@
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\in_class.csproj.AssemblyReference.cache
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\in_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\in_class.AssemblyInfoInputs.cache
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\in_class.AssemblyInfo.cs
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\in_class.csproj.CoreCompileInputs.cache
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\bin\Debug\net6.0\in_class.exe
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\bin\Debug\net6.0\in_class.deps.json
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\bin\Debug\net6.0\in_class.runtimeconfig.json
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\bin\Debug\net6.0\in_class.dll
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\bin\Debug\net6.0\in_class.pdb
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\in_class.dll
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\refint\in_class.dll
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\in_class.pdb
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\in_class.genruntimeconfig.cache
+C:\Users\vivia\c#\cs_1400_2022\CS_1400_2022\in_class\2022-08-31_bread\obj\Debug\net6.0\ref\in_class.dll

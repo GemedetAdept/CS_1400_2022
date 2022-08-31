@@ -22,6 +22,10 @@ while (loop == true) {
 		Console.WriteLine("Foo, bar!");
 	}
 
+	else {
+		continue;
+	}
+
 	// Reset loop with [Enter]
 	var reLoop = Console.ReadLine();
 
